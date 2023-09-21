@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PabloSodo/appTask/static/css/main.c6fccf74.css",
-    "main.js": "/PabloSodo/appTask/static/js/main.39cd4d46.js",
-    "static/media/fCC-logo.png": "/PabloSodo/appTask/static/media/fCC-logo.922fdeee3b1a1c6ac1f9.png",
-    "index.html": "/PabloSodo/appTask/index.html",
-    "main.c6fccf74.css.map": "/PabloSodo/appTask/static/css/main.c6fccf74.css.map",
-    "main.39cd4d46.js.map": "/PabloSodo/appTask/static/js/main.39cd4d46.js.map"
+    "main.css": "/appTask/static/css/main.c6fccf74.css",
+    "main.js": "/appTask/static/js/main.ec629448.js",
+    "static/media/fCC-logo.png": "/appTask/static/media/fCC-logo.922fdeee3b1a1c6ac1f9.png",
+    "index.html": "/appTask/index.html",
+    "main.c6fccf74.css.map": "/appTask/static/css/main.c6fccf74.css.map",
+    "main.ec629448.js.map": "/appTask/static/js/main.ec629448.js.map"
   },
   "entrypoints": [
     "static/css/main.c6fccf74.css",
-    "static/js/main.39cd4d46.js"
+    "static/js/main.ec629448.js"
   ]
 }
